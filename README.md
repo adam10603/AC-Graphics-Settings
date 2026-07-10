@@ -6,6 +6,8 @@ These are config files for AC graphics settings, CSP graphics settings, and Pure
 
 These settings are optimized for both daytime and nighttime, as well as all different weather conditions. I don't have RainFX myself though, but it would probably also look fine with this.
 
+Installing these files will not change any other AC or CSP settings, only things that have to do with graphics.
+
 ## 🖥️ Installation
 
 First make sure you have these installed and working already:
