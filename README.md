@@ -24,13 +24,13 @@ Before continuing it's probably best to back up your existing settings. You can 
 
 If you're ready then download the config files from [***Releases***](https://github.com/adam10603/AC-Graphics-Settings/releases).
 
-The files come in ***regular*** and ***low spec*** versions. The regular version is still optimized to run well, but just in case you're GPU bottlenecked then the low spec version could be a bit better.
+The files come in ***regular*** and ***low spec*** versions. The regular version is still optimized to run well enough, but with a weaker GPU you might want to try the low spec version instead.
 
 After picking a version, open the folder called ***drag into content manager*** and drag the files inside of it into Content Manager.
 
 Then open the folder called ***copy into the assettocorsa folder*** and copy what's inside of it into your main ***assettocorsa*** install folder.
 
-Once you've applied everything, make sure to double check your resolution since the preset might change it! In Content Manager go to ***Settings*** ➔ ***Assetto Corsa*** ➔ ***Video*** and make sure the resolution is right for your screen.
+Once you've applied everything, make sure to double check your resolution since the preset might have changed it! In Content Manager go to ***Settings*** ➔ ***Assetto Corsa*** ➔ ***Video*** and make sure the resolution is right for your screen.
 
 ![Installation 1](https://raw.githubusercontent.com/adam10603/AC-Graphics-Settings/refs/heads/main/screenshots/install1.jpg)
 
