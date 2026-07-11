@@ -22,7 +22,7 @@ Before continuing it's probably best to back up your existing settings. You can 
  - In Content Manager go to ***Settings*** ➔ ***Custom Shaders Patch***, click on any tab under ***Extensions***, then click ***Save preset*** in the bottom right.
  - Back up the following directory: `steamapps\common\assettocorsa\extension\config-ext\Pure LCS`
 
-If you're ready then download the config files from [***Releases***](https://github.com/adam10603/AC-Adams-FFB-Toolbox/releases).
+If you're ready then download the config files from [***Releases***](https://github.com/adam10603/AC-Graphics-Settings/releases).
 
 The files come in ***regular*** and ***low spec*** versions. The regular version is still optimized to run well, but just in case you're GPU bottlenecked then the low spec version could be a bit better.
 
