@@ -32,23 +32,23 @@ Then open the folder called ***copy into the assettocorsa folder*** and copy wha
 
 Once you've applied everything, make sure to double check your resolution since the preset might change it! In Content Manager go to ***Settings*** ➔ ***Assetto Corsa*** ➔ ***Video*** and make sure the resolution is right for your screen.
 
-![Installation 1](https://i.imgur.com/YmzLTUT.png)
+![Installation 1](https://raw.githubusercontent.com/adam10603/AC-Graphics-Settings/refs/heads/main/screenshots/install1.jpg)
 
-![Installation 2](https://i.imgur.com/iHJXPDP.png)
+![Installation 2](https://raw.githubusercontent.com/adam10603/AC-Graphics-Settings/refs/heads/main/screenshots/install2.jpg)
 
-![Installation 3](https://i.imgur.com/iViLFCp.png)
+![Installation 3](https://raw.githubusercontent.com/adam10603/AC-Graphics-Settings/refs/heads/main/screenshots/install3.jpg)
 
 # 📷 Screenshots
 
 Here are some in-game screenshots with these config files.
 
-![](https://i.imgur.com/Vs884i6.jpeg)
-![](https://i.imgur.com/bz8sfgj.jpeg)
-![](https://i.imgur.com/shJpAtH.jpeg)
-![](https://i.imgur.com/wlDw9hY.jpeg)
-![](https://i.imgur.com/GGQhV9r.jpeg)
-![](https://i.imgur.com/nymEYZP.jpeg)
-![](https://i.imgur.com/zRK5lKU.jpeg)
-![](https://i.imgur.com/dcXu5Yg.jpeg)
-![](https://i.imgur.com/KbSh2Jb.jpeg)
-![](https://i.imgur.com/71awz3q.jpeg)
+![](https://raw.githubusercontent.com/adam10603/AC-Graphics-Settings/refs/heads/main/screenshots/1.jpg)
+![](https://raw.githubusercontent.com/adam10603/AC-Graphics-Settings/refs/heads/main/screenshots/2.jpg)
+![](https://raw.githubusercontent.com/adam10603/AC-Graphics-Settings/refs/heads/main/screenshots/3.jpg)
+![](https://raw.githubusercontent.com/adam10603/AC-Graphics-Settings/refs/heads/main/screenshots/4.jpg)
+![](https://raw.githubusercontent.com/adam10603/AC-Graphics-Settings/refs/heads/main/screenshots/5.jpg)
+![](https://raw.githubusercontent.com/adam10603/AC-Graphics-Settings/refs/heads/main/screenshots/6.jpg)
+![](https://raw.githubusercontent.com/adam10603/AC-Graphics-Settings/refs/heads/main/screenshots/7.jpg)
+![](https://raw.githubusercontent.com/adam10603/AC-Graphics-Settings/refs/heads/main/screenshots/8.jpg)
+![](https://raw.githubusercontent.com/adam10603/AC-Graphics-Settings/refs/heads/main/screenshots/9.jpg)
+![](https://raw.githubusercontent.com/adam10603/AC-Graphics-Settings/refs/heads/main/screenshots/10.jpg)
