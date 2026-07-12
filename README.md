@@ -1,6 +1,6 @@
 # AC Graphics Settings
 
-![Last update](https://img.shields.io/badge/Last%20update-2026--07--11-blue.svg) ![Compatibility](https://img.shields.io/badge/CSP-0.2.11+-green.svg)
+![Last update](https://img.shields.io/badge/Last%20update-2026--07--12-blue.svg) ![Compatibility](https://img.shields.io/badge/CSP-0.2.11+-green.svg)
 
 These are config files for AC graphics settings, CSP graphics settings, and Pure settings that I spent a long time tweaking to look good and run well too.
 
