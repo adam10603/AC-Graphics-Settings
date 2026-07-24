@@ -1,6 +1,6 @@
 # AC Graphics Settings
 
-![Last update](https://img.shields.io/badge/Last%20update-2026--07--23-blue.svg) ![Compatibility](https://img.shields.io/badge/CSP-0.2.11+-green.svg)
+![Last update](https://img.shields.io/badge/Last%20update-2026--07--24-blue.svg) ![Compatibility](https://img.shields.io/badge/CSP-0.2.11+-green.svg)
 
 These are config files for AC graphics settings, CSP graphics settings, and Pure settings that I spent a long time tweaking to look good and run well too.
 
@@ -14,7 +14,7 @@ First make sure you have these installed and working already:
 
  - Content Manager
  - Custom Shaders Patch (I used **0.2.11**)
- - Pure LCS
+ - Pure LCS (I tested both **3.21** and **3.5**)
 
 Before continuing it's probably best to back up your existing settings. You can do this in 3 steps:
 
@@ -37,6 +37,8 @@ Once you've applied everything, make sure to double check your resolution since 
 ![Installation 2](https://raw.githubusercontent.com/adam10603/AC-Graphics-Settings/refs/heads/main/screenshots/install2.jpg)
 
 ![Installation 3](https://raw.githubusercontent.com/adam10603/AC-Graphics-Settings/refs/heads/main/screenshots/install3.jpg)
+
+Optionally, if you're using the ***regular*** spec settings and still have some GPU power to spare, you can go to ***Settings*** ➔ ***Custom Shaders Patch*** ➔ ***Graphics Adjustments*** and enable ***AMD FidelityFX Super Resolution*** for better anti-aliasing. It's pre-configured to render at 1.25x your resolution when enabled.
 
 # 📷 Screenshots
 
