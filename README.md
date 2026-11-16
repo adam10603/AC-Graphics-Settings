@@ -26,19 +26,19 @@ If you're ready then download the config files from [***Releases***](https://git
 
 The files come in ***regular*** and ***low spec*** versions. The regular version is still optimized to run well, but with a weaker GPU you might want to try the low spec version instead.
 
-After picking a version, open the folder called ***drag into content manager*** and drag the files inside of it into Content Manager.
+To install everything:
 
-Then open the folder called ***copy into the assettocorsa folder*** and copy what's inside of it into your main ***assettocorsa*** install folder.
+ 1. After picking a version, open the folder called ***drag into content manager*** and drag the files inside of it into Content Manager.
+ 2. Open the folder called ***copy into the assettocorsa folder*** and copy what's inside of it into your main ***assettocorsa*** folder.
+ 3. Make sure to double check your resolution since the preset might have changed it! In Content Manager go to ***Settings*** ➔ ***Assetto Corsa*** ➔ ***Video*** and make sure the resolution is right for your screen.
 
-Once you've applied everything, make sure to double check your resolution since the preset might have changed it! In Content Manager go to ***Settings*** ➔ ***Assetto Corsa*** ➔ ***Video*** and make sure the resolution is right for your screen.
+Optionally, if you feel like you have more GPU power to spare, you can get better anti-aliasing if you go to ***Settings*** ➔ ***Custom Shaders Patch*** ➔ ***Graphics Adjustments*** and enable ***Upscaling*** (or on older versions of CSP it was called ***AMD FidelityFX Super Resolution***). It's pre-configured to render at 1.3x your resolution when enabled.
 
 ![Installation 1](https://raw.githubusercontent.com/adam10603/AC-Graphics-Settings/refs/heads/main/screenshots/install1.jpg)
 
 ![Installation 2](https://raw.githubusercontent.com/adam10603/AC-Graphics-Settings/refs/heads/main/screenshots/install2.jpg)
 
 ![Installation 3](https://raw.githubusercontent.com/adam10603/AC-Graphics-Settings/refs/heads/main/screenshots/install3.jpg)
-
-Optionally, if you feel like you have more GPU power to spare, you can get better anti-aliasing if you go to ***Settings*** ➔ ***Custom Shaders Patch*** ➔ ***Graphics Adjustments*** and enable ***Upscaling*** (or on older versions of CSP it was called ***AMD FidelityFX Super Resolution***). It's pre-configured to render at 1.3x your resolution when enabled.
 
 # 📷 Screenshots
 
