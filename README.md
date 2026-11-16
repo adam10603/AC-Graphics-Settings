@@ -13,8 +13,8 @@ Installing these files will not change any other AC or CSP settings, only things
 First make sure you have these installed and working already:
 
  - Content Manager
- - Custom Shaders Patch (I tested both **0.2.11** and **0.3.1**)
- - Pure LCS (I tested both **3.21** and **3.59**)
+ - Custom Shaders Patch (I tested **0.2.11** and **0.3.1**)
+ - Pure LCS (I tested **3.21** and **3.59**)
 
 Before continuing it's probably best to back up your existing settings. You can do this in 3 steps:
 
@@ -24,7 +24,7 @@ Before continuing it's probably best to back up your existing settings. You can 
 
 If you're ready then download the config files from [***Releases***](https://github.com/adam10603/AC-Graphics-Settings/releases).
 
-The files come in ***regular*** and ***low spec*** versions. The regular version is still optimized to run well enough, but with a weaker GPU you might want to try the low spec version instead.
+The files come in ***regular*** and ***low spec*** versions. The regular version is still optimized to run well, but with a weaker GPU you might want to try the low spec version instead.
 
 After picking a version, open the folder called ***drag into content manager*** and drag the files inside of it into Content Manager.
 
@@ -38,7 +38,7 @@ Once you've applied everything, make sure to double check your resolution since 
 
 ![Installation 3](https://raw.githubusercontent.com/adam10603/AC-Graphics-Settings/refs/heads/main/screenshots/install3.jpg)
 
-Optionally, if you're using the ***regular*** spec settings and still have some GPU power to spare, you can go to ***Settings*** ➔ ***Custom Shaders Patch*** ➔ ***Graphics Adjustments*** and enable ***AMD FidelityFX Super Resolution*** (or on newer versions of CSP it's called ***Upscaling***) for better anti-aliasing. It's pre-configured to render at 1.3x your resolution when enabled.
+Optionally, if you feel like you have more GPU power to spare, you can get better anti-aliasing if you go to ***Settings*** ➔ ***Custom Shaders Patch*** ➔ ***Graphics Adjustments*** and enable ***Upscaling*** (or on older versions of CSP it was called ***AMD FidelityFX Super Resolution***). It's pre-configured to render at 1.3x your resolution when enabled.
 
 # 📷 Screenshots
 
