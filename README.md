@@ -1,6 +1,6 @@
 # AC Graphics Settings
 
-![Last update](https://img.shields.io/badge/Last%20update-2026--11--01-blue.svg)
+![Last update](https://img.shields.io/badge/Last%20update-2026--11--16-blue.svg)
 
 These are config files for AC graphics settings, CSP graphics settings, and Pure settings that I spent a long time tweaking to look good and run well too.
 
@@ -28,11 +28,11 @@ The files come in ***regular*** and ***low spec*** versions. The regular version
 
 To install everything:
 
- 1. After picking a version, open the folder called ***drag into content manager*** and drag the files inside of it into Content Manager.
- 2. Open the folder called ***copy into the assettocorsa folder*** and copy what's inside of it into your main ***assettocorsa*** folder.
- 3. Make sure to double check your resolution since the preset might have changed it! In Content Manager go to ***Settings*** ➔ ***Assetto Corsa*** ➔ ***Video*** and make sure the resolution is right for your screen.
+ - After picking a version, open the folder called ***drag into content manager*** and drag the files inside of it into Content Manager.
+ - Open the folder called ***copy into the assettocorsa folder*** and copy what's inside of it into your main ***assettocorsa*** folder.
+ - Make sure to double check your resolution since the preset might have changed it! In Content Manager go to ***Settings*** ➔ ***Assetto Corsa*** ➔ ***Video*** and make sure the resolution is right for your screen.
 
-Optionally, if you feel like you have more GPU power to spare, you can get better anti-aliasing if you go to ***Settings*** ➔ ***Custom Shaders Patch*** ➔ ***Graphics Adjustments*** and enable ***Upscaling*** (or on older versions of CSP it was called ***AMD FidelityFX Super Resolution***). It's pre-configured to render at 1.3x your resolution when enabled.
+Optionally if you have more GPU power to spare, you can get better anti-aliasing if you go to ***Settings*** ➔ ***Custom Shaders Patch*** ➔ ***Graphics Adjustments*** and enable ***Upscaling*** (or on older versions of CSP it was called ***AMD FidelityFX Super Resolution***). It's pre-configured to render at 1.3x your resolution when enabled.
 
 ![Installation 1](https://raw.githubusercontent.com/adam10603/AC-Graphics-Settings/refs/heads/main/screenshots/install1.jpg)
 
