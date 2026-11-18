@@ -1,6 +1,6 @@
 # AC Graphics Settings
 
-![Last update](https://img.shields.io/badge/Last%20update-2026--11--16-blue.svg)
+![Last update](https://img.shields.io/badge/Last%20update-2026--11--17-blue.svg)
 
 These are config files for AC graphics settings, CSP graphics settings, and Pure settings that I spent a long time tweaking to look good and run well too.
 
@@ -19,7 +19,7 @@ First make sure you have these installed and working already:
 Before continuing it's probably best to back up your existing settings. You can do this in 3 steps:
 
  - In Content Manager go to ***Settings*** ➔ ***Assetto Corsa*** ➔ ***Video***, then click ***Save preset*** in the bottom right.
- - In Content Manager go to ***Settings*** ➔ ***Custom Shaders Patch***, click on any tab under ***Extensions***, then click ***Save preset*** in the bottom right.
+ - In Content Manager go to ***Settings*** ➔ ***Custom Shaders Patch*** ➔ ***Graphics Adjustments***, then click ***Save preset*** in the bottom right.
  - Back up the following directory: `steamapps\common\assettocorsa\extension\config-ext\Pure LCS`
 
 If you're ready then download the config files from [***Releases***](https://github.com/adam10603/AC-Graphics-Settings/releases).
